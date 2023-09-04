@@ -9,5 +9,5 @@ require (
 	github.com/miolini/datacounter v1.0.2
 	github.com/prometheus/client_golang v1.12.1
 	github.com/spf13/cobra v1.3.0
-	golang.org/x/crypto v0.0.0-20220208050332-20e1d8d225ab
+	golang.org/x/crypto v0.1.0
 )
